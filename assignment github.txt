@@ -1,0 +1,26 @@
+Ans 1.
+git --version
+
+Ans 2.
+git init
+
+Ans 3.
+git config --global user.name "xyz"
+git config --global user.email "xyz"
+
+Ans 4.
+git add <file_name>
+
+Ans 5.
+git reset HEAD <file_name>
+
+Ans 6.
+git commit -m
+
+Ans 7.
+git remote set-url --add --push origin giturlLink
+
+Ans 8.
+Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine
+
+
